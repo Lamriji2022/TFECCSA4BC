@@ -1,2 +1,4 @@
 # Towards Fast Elliptic Curve Signature Algorithms for Blockchain
 In this project, we present the two digital signature algorithms, ECDSA and EdDSA, most used in applications based on blockchain technology and others (see ECDSA and EdDSA file). We also programmed it in Python. This work is a sequel to the paper in which the most effective scalar multiplication and modular multiplicative inverse algorithms for speeding up the signature and verification processes of the two algorithms were presented, which was discussed at the NISS22 Conference (https://niss22.medi-ast.org/).
+
+We share the constituent algorithms of the ECDSA and EdDSA signing schemes and the Python code source of the SM methods; refer to the paper (https://ieeexplore.ieee.org/document/10085497) for more details on the SM methods.
